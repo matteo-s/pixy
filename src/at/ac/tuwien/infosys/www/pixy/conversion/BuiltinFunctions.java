@@ -856,6 +856,7 @@ public class BuiltinFunctions {
         allBuiltinFunctions.add("FilterIterator::rewind");
         allBuiltinFunctions.add("FilterIterator::valid");
         allBuiltinFunctions.add("floatval");
+        allBuiltinFunctions.add("filter_var");        
         allBuiltinFunctions.add("flock");
         allBuiltinFunctions.add("floor");
         allBuiltinFunctions.add("flush");

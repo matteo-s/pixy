@@ -25,6 +25,7 @@ strpos=0
 imagecreatefrompng=0
 hexdec=0
 debug_backtrace=0
+filter_var=0
 
 # "clean database" policy
 
